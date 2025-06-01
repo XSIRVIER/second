@@ -1,0 +1,11 @@
+git add  # add modify to staging area
+
+git status # show status 
+
+git clone # cloning files from remote repo
+
+git commit -m "comment" # push from staging area to local repo
+
+git push # push from local repo to remote repo
+
+
